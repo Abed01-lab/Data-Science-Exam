@@ -11,7 +11,7 @@
         3. Second we can help the mechanic identify what car parts to buy in bulk, and therefore increase profits. 
         
 * What is in the focus of your interest?
-1. The focus here is to do analysis on the customers of the workshop.
+\tThe focus here is to do analysis on the customers of the workshop.
 2. Produce usefull statistic to boost the efficiency of ad campaigns and bulk purchases of car parts. 
 
 * Why is it interesting?
