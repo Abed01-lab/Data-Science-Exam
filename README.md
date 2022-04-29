@@ -24,3 +24,5 @@
 4. Who may be a user of the results?
       1. The user of the result will be the local mechanic
 
+
+** Since the bills include sensitive information about the customers, we want to exclude it from the repository.
