@@ -16,7 +16,7 @@
 
 2. Why is it interesting?
       1. It is interesting because this is a real case, which will help someone.
-      2. It is also interesting because the data we have is not a data set but one excel file per bill.
+      2. It is also interesting because the data we have is not a data set but one excel file per bill, so we have to first create the dataset ourself.
 
 3. Which outcome do you expect from your research?
       1. We expect the outcome to greatly help the local mechanic, with future pruchases and a more aggressiv add towards his type of customers.
